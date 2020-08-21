@@ -1,0 +1,61 @@
+body {
+	font-family: futura,sans-serif;
+	font-size: 60px;
+	text-align: center;
+	background:blue;
+}
+
+.date {
+	position:fixed;
+	top:0px;
+	left:30px;
+	background-color:red;
+}
+
+.tittle {
+	font-size:80px;
+	letter-spacing: 50px
+	line-height:-90px;
+	margin-top:560px;
+	text-align:right;
+	font-weight:bolder;
+
+}
+.mada{
+	font-size:120px;
+	font-weight:bolder;
+	text-align:left;
+}
+.message{
+	font-weight:bold;
+	color:white;
+}
+.word1{
+	color:red;
+	font-size:100px;
+}
+.word2{
+	color:red;
+	font-size:80px;
+}
+
+.word3{
+	color:red;
+	font-size:70px;
+}
+.word4{
+	color:red;
+	font-size:70px;
+}
+.message2{
+	font-weight:bold;
+	color:white;
+	text-align:left;
+
+}
+.message3{
+	font-weight:bold;
+	color:white;
+	text-align:right;
+}
+

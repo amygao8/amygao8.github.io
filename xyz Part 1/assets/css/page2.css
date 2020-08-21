@@ -1,0 +1,48 @@
+body {
+	font-family: futura,sans-serif;
+	font-size: 60px;
+	text-align: center;
+	background:white;
+}
+.date{
+	font-size:80px;
+	font-family:futura;
+	text-shadow:0px 0px 20px blue;
+	color:red;
+}
+.tittle{
+	font-size:30px;
+	font-weight:bold;
+	text-align:left;
+	color:red;
+	background:black;
+	position:fixed;
+}
+.mada{
+	color:red;
+	font-size:30px;
+	font-weight:bolder;
+	text-align:right;
+}
+.message{
+	color:black;
+	text-shadow:5px 5px 10px red;
+	font-size:80px;
+	font-weight:bold;
+}
+.word1{
+	color:white;
+	font-size:120px;
+}
+.word2{
+	color:white;
+	font-size:120px;
+}
+.word3{
+	color:white;
+	font-size:100px;
+}
+.word4{
+	color:white;
+	font-size:100px;
+}
