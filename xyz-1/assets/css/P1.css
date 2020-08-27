@@ -1,0 +1,70 @@
+body {
+	font-family: Helvetica,Arial,sans-serif;
+	font-size: 60px;
+	text-align: center;
+	color:blue;
+	background:black;
+}
+
+.date {
+	font-size:100px;
+	text-align:center;
+	color:black;
+	background-color:white;
+	font-weight:bold;
+	width:350px;
+	height:350px;
+	border-radius:100%;
+	overflow:scroll;
+	padding-top:120px;
+	filter:blur(5px);
+}
+.tittle {
+	font-size:50px;
+	text-align:right;
+	color:lightgrey;
+	width:100%;
+	font-weight:bold;
+	padding-top:5px;
+	position:fixed;
+	text-shadow:0px 0px 5px white;
+}
+.mada {
+	font-size:30px;
+	color:white;
+	font-weight:bolder;
+	margin-left:40px;
+}
+.message{
+	color:white;
+	font-size:200px;
+	text-shadow:0px 0px 10px white;
+	font-weight:bold;
+}
+
+.word1{
+	color:black;
+	font-weight:bolder;
+	font-size:80px;
+	text-shadow:0px 0px 30px white;
+}
+
+.word2{
+	color:black;
+	font-weight:bolder;
+	font-size:80px;
+	text-shadow:0px 0px 30px white;
+}
+.word3{
+	color:black;
+	font-weight:bolder;
+	font-size:180px;
+}
+.word4{
+	color:black;
+	font-weight:bolder;
+	font-size:180px;
+}
+
+
+

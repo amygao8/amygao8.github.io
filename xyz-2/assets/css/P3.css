@@ -1,0 +1,119 @@
+body {
+	font-size: 60px;
+	text-align: center;
+	background:yellow;
+	color:lightgreen;
+ 	font-family:impact;
+ 	font-weight:bold;
+}
+
+.tri{
+	width:600px;
+	height:600px;
+	background-color:white;
+	position:absolute;
+	top:300px;
+	left:300px;
+	z-index:-2;
+}
+
+.word1{
+	color:lightgreen;
+}
+
+.word2{
+	color:lightgreen;
+}
+
+.date{
+	position:fixed;
+	right:0px;
+	text-align:center;
+	font-family:impact;
+	padding:10px;
+	color:yellow;
+	background-color:lightgreen;
+}
+
+.message{
+	padding:150px;
+	font-size:80px;
+	text-align:left;
+	color:orange;
+	font-weight:bold;
+}
+
+.tittle{
+	text-align:left;
+	font-weight:bolder;
+	color:lightgreen;
+	animation: dis 2s infinite alternate;
+}
+
+@keyframes dis{
+	0%{
+
+	}
+	100%{
+		opacity:0%;
+	}
+}
+
+.message1{
+	color:white;
+	background-color:orange;
+	font-size:45px;
+	animation: scroll-left 10s linear infinite;
+	position:fixed;
+	font-weight:bold;
+	top:70%;
+}
+
+.message2{
+	color:white;
+	background-color:orange;
+	font-size:45px;
+	font-weight:bold;
+	animation: scroll-left 7s linear infinite;
+	position:fixed;
+	top:85%;
+}
+
+.message3{
+	color:white;
+	background-color:orange;
+	font-size:45px;
+	font-weight:bold;
+	animation: scroll-left 12s linear infinite;
+	position:fixed;
+	top:55%;
+}
+
+@keyframes scroll-left {
+ 0%   { 
+ -moz-transform: translateX(100%);
+ -webkit-transform: translateX(100%); 
+ transform: translateX(100%); 		
+ }
+ 100% { 
+ -moz-transform: translateX(-100%); 
+ -webkit-transform: translateX(-100%); 
+ transform: translateX(-100%); 
+ }
+}
+
+.mada{
+	animation: skip 2s infinite alternate;
+}
+
+@keyframes skip{
+	0%{
+		opacity:0%;
+	}
+	100%{
+		opacity:100%;
+		transform:skew(10deg); 
+	}
+}
+
+
