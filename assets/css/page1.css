@@ -31,6 +31,52 @@
 	background-color:white;
 }
 
+.rectangle{
+	background-color:white;
+	height:10px;
+	top:300px;
+	text-align:center;
+	width:100%;
+	position:fixed;
+	animation: 3s slide infinite alternate;
+	z-index:-2;
+
+}
+
+@keyframes slide{
+	0%{
+		transform:rotate(-30deg);
+
+	}
+	100%{
+		transform:rotate(30deg);
+
+	}
+}
+
+.rect{
+	background-color:white;
+	height:10px;
+	top:300px;
+	text-align:center;
+	width:100%;
+	position:fixed;
+	z-index:-2;
+	animation: 3s slides infinite alternate;
+}
+
+@keyframes slides{
+	0%{
+		transform:rotate(20deg);
+
+	}
+	100%{
+		transform:rotate(-20deg);
+
+	}
+}
+
+
 .name:hover{
 	background-color:red;
 }
@@ -40,7 +86,7 @@
 	font-size:40px;
 	text-align:center;
 	color:white;
-	padding:50px;
+	padding:80px;
 }
 
 .col{
@@ -75,5 +121,6 @@ img {
 		filter:blur{10px);
 	}
 }
+
 
 
