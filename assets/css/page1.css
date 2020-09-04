@@ -1,14 +1,21 @@
 .tittle{
 	font-family:futura;
-	font-size:50px;
+	font-size:20px;
 	font-weight:bold;
 	text-align:left;
 	color:white;
+	padding:30px;
+	background-color:red;
+	height:10px;
+	width:50px;
+	position:fixed;
 }
 
 a{
 	color:white;
 	text-decoration:none;
+	font-family:futura;
+	font-size:20px;
 }
 
 a:hover {
@@ -90,11 +97,13 @@ a:hover {
 .col{
 	font-family:futura;
 	font-size:25px;
-	display:inline-block;
+	display:inline-flex;
 	text-align:center;
-	padding-top:50px;
+	padding:30px;
 	width:19%;
 	font-weight:bold;
+	justify-content:space-around;
+
 }
 
 body{
