@@ -44,5 +44,7 @@ $('.logo').click(function(){
 	$('.btn-reset').click(function(){
 		$('.item').removeClass('hide')
 	});
+//filter end
+
 
 });

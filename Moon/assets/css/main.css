@@ -6,6 +6,8 @@ body{
 	width:130px;
 	height:130px;
 	padding:10px;
+	position:fixed;
+	z-index:2;
 }
 
 .logo img{
@@ -14,6 +16,7 @@ body{
 
 .logo:hover {
 	filter:invert(100%);
+	cursor:pointer;
 }
 	
 
@@ -36,6 +39,7 @@ body{
 .nav.active{
 	display:none;
 }
+
 
 .btn{
 	display:flex;
@@ -100,4 +104,23 @@ body{
 
 .hide{
 	display:none;
+}
+
+.line{
+	width:50%;
+	height:1px;
+	background-color:grey;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.footer{
+	padding-top:5px;
+	padding-bottom:5px;
+	width: 100%;
+	background-color:black;
+	color:lightgrey;
+	text-align: center;
+	font-family:helvetica;
+	font-size:12px;
 }
