@@ -14,6 +14,10 @@ $('.logo').click(function(){
 	});
 //End reset button
 
+	$('.landing').click(function(){
+		$('.landing').addClass('hide');
+	});
+
 //filter
 
 	$('.btn-full').click(function(){
@@ -43,6 +47,7 @@ $('.logo').click(function(){
 
 	$('.btn-reset').click(function(){
 		$('.item').removeClass('hide')
+		$('.landing').removeClass('hide')
 	});
 //filter end
 
