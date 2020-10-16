@@ -84,7 +84,7 @@ body{
 	padding:0px;
 	align-items:center;
 	font-family:futura;
-	font-size:15px;
+	font-size:18px;
 
 }
 
@@ -99,6 +99,10 @@ body{
 
 .item img:hover{
 	filter:grayscale(0%);
+}
+
+.overlay{
+	padding:10px;
 }
 
 
@@ -123,4 +127,18 @@ body{
 	text-align: center;
 	font-family:helvetica;
 	font-size:12px;
+}
+
+/*iphone*/
+@media(max-width: 550px){
+	.item{
+		width:100%;
+		font-size:18px;
+		padding:10px;
+	}
+
+	.footer{
+		font-weight:bold;
+	}
+
 }
