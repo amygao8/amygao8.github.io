@@ -1091,7 +1091,7 @@ div {
   }
 }
 #ui .text:nth-child(21) {
-  color:red;
+  color:blue;
   -webkit-clip-path: polygon(0% 50%, 0% 100%, 10% 100%);
           clip-path: polygon(0% 50%, 0% 100%, 10% 100%);
   -webkit-transform-origin: -12% 25%;
@@ -1144,7 +1144,7 @@ div {
   }
 }
 #ui .text:nth-child(22) {
-  color:red;
+  color:blue;
   -webkit-clip-path: polygon(0% 50%, 10% 50%, 10% 100%);
           clip-path: polygon(0% 50%, 10% 50%, 10% 100%);
   -webkit-transform-origin: -16% 77%;
@@ -1197,7 +1197,7 @@ div {
   }
 }
 #ui .text:nth-child(23) {
-  color: red;
+  color: blue;
   -webkit-clip-path: polygon(10% 50%, 10% 100%, 20% 100%);
           clip-path: polygon(10% 50%, 10% 100%, 20% 100%);
   -webkit-transform-origin: 4% 65%;
@@ -1250,7 +1250,7 @@ div {
   }
 }
 #ui .text:nth-child(24) {
-  color:red;
+  color:blue;
   -webkit-clip-path: polygon(10% 50%, 20% 50%, 20% 100%);
           clip-path: polygon(10% 50%, 20% 50%, 20% 100%);
   -webkit-transform-origin: -32% 98%;
@@ -1303,7 +1303,7 @@ div {
   }
 }
 #ui .text:nth-child(25) {
-  color:red;
+  color:blue;
   -webkit-clip-path: polygon(20% 50%, 20% 100%, 30% 100%);
           clip-path: polygon(20% 50%, 20% 100%, 30% 100%);
   -webkit-transform-origin: 5% 8%;
@@ -1356,7 +1356,7 @@ div {
   }
 }
 #ui .text:nth-child(26) {
-  color:red;
+  color:blue;
   -webkit-clip-path: polygon(20% 50%, 30% 50%, 30% 100%);
           clip-path: polygon(20% 50%, 30% 50%, 30% 100%);
   -webkit-transform-origin: -23% 7%;
@@ -1409,7 +1409,7 @@ div {
   }
 }
 #ui .text:nth-child(27) {
-  color:red;
+  color:blue;
   -webkit-clip-path: polygon(30% 50%, 30% 100%, 40% 100%);
           clip-path: polygon(30% 50%, 30% 100%, 40% 100%);
   -webkit-transform-origin: 68% 68%;
@@ -1462,7 +1462,7 @@ div {
   }
 }
 #ui .text:nth-child(28) {
-  color:red;
+  color:blue;
   -webkit-clip-path: polygon(30% 50%, 40% 50%, 40% 100%);
           clip-path: polygon(30% 50%, 40% 50%, 40% 100%);
   -webkit-transform-origin: 70% 100%;
@@ -1515,7 +1515,7 @@ div {
   }
 }
 #ui .text:nth-child(29) {
-  color:red;
+  color:blue;
   -webkit-clip-path: polygon(40% 50%, 40% 100%, 50% 100%);
           clip-path: polygon(40% 50%, 40% 100%, 50% 100%);
   -webkit-transform-origin: 57% 16%;
@@ -1568,7 +1568,7 @@ div {
   }
 }
 #ui .text:nth-child(30) {
-  color:red;
+  color:blue;
   -webkit-clip-path: polygon(40% 50%, 50% 50%, 50% 100%);
           clip-path: polygon(40% 50%, 50% 50%, 50% 100%);
   -webkit-transform-origin: 85% 14%;
@@ -1621,7 +1621,7 @@ div {
   }
 }
 #ui .text:nth-child(31) {
-  color:red;
+  color:blue;
   -webkit-clip-path: polygon(50% 50%, 50% 100%, 60% 100%);
           clip-path: polygon(50% 50%, 50% 100%, 60% 100%);
   -webkit-transform-origin: 16% 47%;
@@ -1674,7 +1674,7 @@ div {
   }
 }
 #ui .text:nth-child(32) {
-  color:red;
+  color:blue;
   -webkit-clip-path: polygon(50% 50%, 60% 50%, 60% 100%);
           clip-path: polygon(50% 50%, 60% 50%, 60% 100%);
   -webkit-transform-origin: 19% 19%;
@@ -1727,7 +1727,7 @@ div {
   }
 }
 #ui .text:nth-child(33) {
-  color:red;
+  color:blue;
   -webkit-clip-path: polygon(60% 50%, 60% 100%, 70% 100%);
           clip-path: polygon(60% 50%, 60% 100%, 70% 100%);
   -webkit-transform-origin: 61% 9%;
@@ -1780,7 +1780,7 @@ div {
   }
 }
 #ui .text:nth-child(34) {
-  color:red;
+  color:blue;
   -webkit-clip-path: polygon(60% 50%, 70% 50%, 70% 100%);
           clip-path: polygon(60% 50%, 70% 50%, 70% 100%);
   -webkit-transform-origin: 47% 62%;
@@ -1833,7 +1833,7 @@ div {
   }
 }
 #ui .text:nth-child(35) {
-  color:red;
+  color:blue;
   -webkit-clip-path: polygon(70% 50%, 70% 100%, 80% 100%);
           clip-path: polygon(70% 50%, 70% 100%, 80% 100%);
   -webkit-transform-origin: 83% 6%;
@@ -1886,7 +1886,7 @@ div {
   }
 }
 #ui .text:nth-child(36) {
-  color:red;
+  color:blue;
   -webkit-clip-path: polygon(70% 50%, 80% 50%, 80% 100%);
           clip-path: polygon(70% 50%, 80% 50%, 80% 100%);
   -webkit-transform-origin: 29% 31%;
@@ -1939,7 +1939,7 @@ div {
   }
 }
 #ui .text:nth-child(37) {
-  color:red;
+  color:blue;
   -webkit-clip-path: polygon(80% 50%, 80% 100%, 90% 100%);
           clip-path: polygon(80% 50%, 80% 100%, 90% 100%);
   -webkit-transform-origin: 62% 74%;
@@ -1992,7 +1992,7 @@ div {
   }
 }
 #ui .text:nth-child(38) {
-  color:red;
+  color:blue;
   -webkit-clip-path: polygon(80% 50%, 90% 50%, 90% 100%);
           clip-path: polygon(80% 50%, 90% 50%, 90% 100%);
   -webkit-transform-origin: 53% 10%;
@@ -2045,7 +2045,7 @@ div {
   }
 }
 #ui .text:nth-child(39) {
-  color:red;
+  color:blue;
   -webkit-clip-path: polygon(90% 50%, 90% 100%, 100% 100%);
           clip-path: polygon(90% 50%, 90% 100%, 100% 100%);
   -webkit-transform-origin: 54% 80%;
@@ -2098,7 +2098,7 @@ div {
   }
 }
 #ui .text:nth-child(40) {
-  color: red;
+  color: blue;
   -webkit-clip-path: polygon(90% 50%, 100% 50%, 100% 100%);
           clip-path: polygon(90% 50%, 100% 50%, 100% 100%);
   -webkit-transform-origin: 112% 11%;
@@ -2151,7 +2151,7 @@ div {
   }
 }
 #ui .text:nth-child(41) {
-  color:red;
+  color:blue;
   -webkit-clip-path: polygon(0% 100%, 0% 150%, 10% 150%);
           clip-path: polygon(0% 100%, 0% 150%, 10% 150%);
   -webkit-transform-origin: 37% 96%;
@@ -2204,7 +2204,7 @@ div {
   }
 }
 #ui .text:nth-child(42) {
-  color:red;
+  color:blue;
   -webkit-clip-path: polygon(0% 100%, 10% 100%, 10% 150%);
           clip-path: polygon(0% 100%, 10% 100%, 10% 150%);
   -webkit-transform-origin: -38% 90%;
@@ -2257,7 +2257,7 @@ div {
   }
 }
 #ui .text:nth-child(43) {
-  color:red;
+  color:blue;
   -webkit-clip-path: polygon(10% 100%, 10% 150%, 20% 150%);
           clip-path: polygon(10% 100%, 10% 150%, 20% 150%);
   -webkit-transform-origin: -23% 112%;
@@ -2310,7 +2310,7 @@ div {
   }
 }
 #ui .text:nth-child(44) {
-  color:red;
+  color:blue;
   -webkit-clip-path: polygon(10% 100%, 20% 100%, 20% 150%);
           clip-path: polygon(10% 100%, 20% 100%, 20% 150%);
   -webkit-transform-origin: -12% 141%;
@@ -2363,7 +2363,7 @@ div {
   }
 }
 #ui .text:nth-child(45) {
-  color:red;
+  color:blue;
   -webkit-clip-path: polygon(20% 100%, 20% 150%, 30% 150%);
           clip-path: polygon(20% 100%, 20% 150%, 30% 150%);
   -webkit-transform-origin: -23% 91%;
@@ -2416,7 +2416,7 @@ div {
   }
 }
 #ui .text:nth-child(46) {
-  color:red;
+  color:blue;
   -webkit-clip-path: polygon(20% 100%, 30% 100%, 30% 150%);
           clip-path: polygon(20% 100%, 30% 100%, 30% 150%);
   -webkit-transform-origin: 21% 91%;
@@ -2469,7 +2469,7 @@ div {
   }
 }
 #ui .text:nth-child(47) {
-  color:red;
+  color:blue;
   -webkit-clip-path: polygon(30% 100%, 30% 150%, 40% 150%);
           clip-path: polygon(30% 100%, 30% 150%, 40% 150%);
   -webkit-transform-origin: 59% 121%;
@@ -5382,4 +5382,36 @@ div {
     -webkit-transform: translate(-50%, -50%) rotate(0deg) rotateY(0deg) rotateZ(0deg) translateZ(0px);
             transform: translate(-50%, -50%) rotate(0deg) rotateY(0deg) rotateZ(0deg) translateZ(0px);
   }
+}
+
+.line{
+  height:8px;
+  width:100%;
+  position:fixed;
+  margin-top:auto;
+  background-color:blue;
+  z-index:-2;
+  color:white;
+  font-family:futura;
+  text-align:right;
+  animation: fadeIn ease 10s;
+
+}
+
+@keyframes fadeIn {
+0% {opacity:0;
+
+}
+100% {opacity:1;
+}
+
+}
+
+.line:hover{
+  opacity:50%;
+}
+
+a{
+  color:white;
+  text-decoration: none;
 }

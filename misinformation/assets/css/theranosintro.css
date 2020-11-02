@@ -5383,3 +5383,35 @@ div {
             transform: translate(-50%, -50%) rotate(0deg) rotateY(0deg) rotateZ(0deg) translateZ(0px);
   }
 }
+
+.line{
+  height:8px;
+  width:100%;
+  position:fixed;
+  margin-top:auto;
+  background-color:red;
+  z-index:-2;
+  color:white;
+  font-family:futura;
+  text-align:right;
+  animation: fadeIn ease 10s;
+
+}
+
+@keyframes fadeIn {
+0% {opacity:0;
+
+}
+100% {opacity:1;
+}
+
+}
+
+.line:hover{
+  opacity:50%;
+}
+
+a{
+  color:white;
+  text-decoration: none;
+}
