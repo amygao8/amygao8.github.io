@@ -26,6 +26,7 @@ div {
   opacity: 0;
   font-family:futura;
   font-weight:bolder;
+  white-space: nowrap;
   -webkit-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
   mix-blend-mode: screen;

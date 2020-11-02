@@ -2,12 +2,11 @@
   box-sizing: border-box;
 }
 
-/* Set a background color */
 body {
   background-color: black;
-  font-family: geneva;
 }
 
+/* still tittle */
 .tittle{
   font-family:futura;
   color:white;
@@ -21,8 +20,10 @@ body {
   
 }
 
+
+/* intro paragraph */
 .info{
-  font-family:geneva;
+  font-family:open sans;
   font-size:14px;
   color:white;
   padding:80px;
@@ -43,7 +44,17 @@ body {
 
 }
 
-/* The actual timeline (the vertical ruler) */
+/* start timeline */
+.start{
+  font-family:futura;
+  font-weight:bold;
+  color:gold;
+  font-size:20px;
+  text-align:center;
+
+}
+
+/* timeline vertical ruler*/
 .timeline {
   position: relative;
   max-width: 1200px;
@@ -55,7 +66,7 @@ body {
   content: '';
   position: absolute;
   width: 3px;
-  background-color: white;
+  background-color: gold;
   top: 0;
   bottom: 0;
   left: 50%;
@@ -121,8 +132,11 @@ text-shadow:0px 0px 5px 5px white;
 
 /* The actual content */
 .content {
-  padding: 20px 30px;
-  background-color: lightgrey;
+  padding: 10px;
+  background-color: black;
+  color:white;
+  font-family:open sans;
+  font-size:14px;
   position: relative;
   border-radius: 0px;
 }
@@ -158,4 +172,10 @@ text-shadow:0px 0px 5px 5px white;
   .right {
     left: 0%;
   }
+}
+
+.head{
+  font-weight:bolder;
+  font-size:15px;
+  padding-bottom:10px;
 }
