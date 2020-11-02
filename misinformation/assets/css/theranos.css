@@ -8,16 +8,17 @@ body {
 
 /* still tittle */
 .tittle{
-  font-family:futura;
-  color:white;
-  font-size:40px;
-  font-weight:bolder;
-  text-align:center;
   padding:20px;
   position:fixed;
   margin:12px;
   z-index:5;
+  width:350px;
+  display:absolute;
   
+}
+.tittle img{
+  width:100%;
+  height:auto;
 }
 
 
@@ -29,6 +30,7 @@ body {
   padding:80px;
   text-align:left;
   animation:10s fade;
+  background-color:black;
 
 }
 
@@ -42,6 +44,18 @@ body {
 
   }
 
+}
+
+/* graph*/
+.graph{
+  width:100%;
+  position:fixed;
+  z-index:-5;
+  top:10px;
+}
+.graph img{
+  width:100%;
+  max-height:100vh;
 }
 
 /* start timeline */
