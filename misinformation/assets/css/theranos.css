@@ -49,9 +49,6 @@ body {
 /* graph*/
 .graph{
   width:100%;
-  position:fixed;
-  z-index:-5;
-  top:10px;
 }
 .graph img{
   width:100%;
