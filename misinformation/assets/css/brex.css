@@ -24,13 +24,16 @@ body {
 
 /* intro paragraph */
 .info{
-  font-family:open sans;
+  font-family:roboto;
   font-size:14px;
   color:white;
   padding:80px;
   text-align:left;
   animation:10s fade;
   background-color:black;
+  line-height:2;
+  letter-spacing:4px;
+  word-spacing:4px;
 
 }
 
@@ -45,6 +48,7 @@ body {
   }
 
 }
+
 
 /* graph*/
 .graph{
@@ -149,10 +153,12 @@ text-shadow:0px 0px 5px 5px white;
   padding: 10px;
   background-color: black;
   color:white;
-  font-family:open sans;
+  font-family:roboto;
   font-size:14px;
   position: relative;
-  border-radius: 0px;
+  line-height:1.6;
+  letter-spacing:4px;
+  word-spacing:4px;
 }
 
 /* Media queries - Responsive timeline on screens less than 600px wide */
