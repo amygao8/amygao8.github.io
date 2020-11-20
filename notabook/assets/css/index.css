@@ -1,0 +1,25 @@
+body{
+	background:black;
+}
+
+.line{
+	position:absolute;
+	margin-left:50%;
+	background-color:white;
+	width:10px;
+	height:10000px;
+
+
+}
+
+.tittle{
+	font-family:futura;
+	font-size:80px;
+	font-weight:bolder;
+	color:darkblue;
+	line-height:400px;
+}
+
+.tittle.a{
+	text-align:right;
+}
