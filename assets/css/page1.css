@@ -20,10 +20,24 @@ img{
 	height:auto;
 }
 
+img:hover{
+	animation:rotation 2s infinite linear;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}
+
 .cont{
 	display:block;
 	font-family:andale mono;
 	font-size:30px;
+	font-weight:bolder;
 }
 
 .left{
@@ -32,6 +46,7 @@ img{
 	height:100vw;
 	z-index:-2;
 	display:inline-block;
+	vertical-align:middle;
 }
 
 
@@ -40,7 +55,7 @@ img{
 	position:absolute;
 	display:inline-block;
 	right:0px;
-	padding:30px;
+	padding:50px;
 }
 
 a{
@@ -51,4 +66,12 @@ a{
 
 a:hover{
 	color:red;
+}
+
+.footer{
+	font-family:roboto;
+	font-size:12px;
+	position:absolute;
+	bottom:0px;
+	text-align:center;
 }
