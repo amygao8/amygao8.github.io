@@ -27,7 +27,9 @@ body{
 	padding:20px;
 	background-color:white;
 	margin:auto;
-	display:absolute;
+	position:fixed;
+	z-index:1;
+	top:0px;
 	flex-wrap:wrap;
 	justify-content:space-around;
 	width:100%;
@@ -56,13 +58,11 @@ body{
 }
 
 .move{
-	margin-top:-57%;
-	transition:2s;
+	visibility:hidden;
 }
 
 .move1{
-	margin-top:-59%;
-	transition:2s;
+	visibility:hidden;
 }
 /*nav starts*/
 
