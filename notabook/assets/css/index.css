@@ -2,24 +2,97 @@ body{
 	background:black;
 }
 
-.line{
-	position:absolute;
-	margin-left:50%;
-	background-color:white;
-	width:10px;
-	height:10000px;
-
-
-}
-
 .tittle{
 	font-family:futura;
-	font-size:80px;
+	font-size:9.5vw;
 	font-weight:bolder;
-	color:darkblue;
-	line-height:400px;
+	color:lightslategrey;
+	line-height:40vw;
+	text-shadow: 4px 4px 0px #3F7FBF;
+
 }
 
 .tittle.a{
 	text-align:right;
 }
+
+.line{
+	color:lightslategrey;
+	font-family:impact;
+	font-size:30px;
+	position:absolute;
+	animation: drop 5s infinite alternate linear;
+}
+
+@keyframes drop{
+	0%{
+		top:0vw;
+		right:40vw;
+
+	}
+
+	100%{
+		top:200vw;
+		right:40vw;
+
+	}
+}
+
+.cont{
+	display:block;
+	position:absolute;
+	left:0px;
+	top:60vw;
+	width:80%;
+	transition: top 0.3s;
+
+}
+
+
+.art{
+	display:inline-block;
+	color:white;
+	text-align:center;
+	font-family:gillsans;
+	font-weight:bolder;
+	padding:20px;
+	text-decoration:none;
+	font-size:15px;
+	width:32%;
+	height:200px;
+	background-color:lightslategrey;
+
+}
+
+.art:hover{
+	background-color:black;
+}
+
+.art a{
+	color:#3F7FBF;
+	text-decoration:none;
+}
+
+.one{
+	background-color:orange;
+	padding:30px;
+	width:70;
+	height:200px;
+}
+
+.two{
+	background-color:brown;
+	padding:30px;
+	width:70;
+	height:200px;
+
+}
+
+.three{
+	background-color:darkblue;
+	padding:30px;
+	width:70;
+	height:200px;
+
+}
+
