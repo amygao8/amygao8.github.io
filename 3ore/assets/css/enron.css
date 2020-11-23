@@ -21,6 +21,9 @@ body {
   height:auto;
 }
 
+.tittle:hover{
+  opacity:50%;
+}
 
 /* intro paragraph */
 .info{
